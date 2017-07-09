@@ -1,0 +1,9 @@
+Added Movie:  894354 
+Neighbor MovieID:  991910 399163 914813 301856 1003512 
+Neighbor Community:  2 2 2 2 2 
+Added Movie:  779751 
+Neighbor MovieID:  818741 1008093 672803 765616 429736 
+Neighbor Community:  2 2 2 2 2 
+Added Movie:  763763 
+Neighbor MovieID:  200580 228519 376170 565673 533166 
+Neighbor Community:  2 2 2 2 2 

@@ -1,0 +1,25 @@
+>>> actNO[180967]
+'Flowers, Bess'
+>>> actNO[137186]
+'Tatasciore, Fred'
+>>> actNO[13716]
+'Blum, Steve (IX)'
+>>> actNO[57602]
+'Harris, Sam (II)'
+>>> actNO[66949]
+'Jeremy, Ron'
+>>> actNO[94326]
+'Miller, Harold (I)'
+>>> actNO[83800]
+'Lowenthal, Yuri'
+>>> actNO[37713]
+'Downes, Robin Atkin'
+>>> actNO[109530]
+'Phelps, Lee (I)'
+>>> actNO[124110]
+'Sayre, Jeffrey'
+>>> 
+      180967       137186        13716        57602        66949        94326        83800        37713 
+0.0001576882 0.0001399245 0.0001343229 0.0001331094 0.0001228220 0.0001163193 0.0001097413 0.0001047281 
+      109530       124110 
+0.0001009891 0.0001005030 
